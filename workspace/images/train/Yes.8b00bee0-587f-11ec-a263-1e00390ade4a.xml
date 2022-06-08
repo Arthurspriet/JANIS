@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Yes</folder>
+	<filename>Yes.8b00bee0-587f-11ec-a263-1e00390ade4a.jpg</filename>
+	<path>/Users/arthurspriet/Desktop/ObjectDetection/TFODCourse/Tensorflow/workspace/images/collectedimages/Yes/Yes.8b00bee0-587f-11ec-a263-1e00390ade4a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>246</ymin>
+			<xmax>574</xmax>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>
