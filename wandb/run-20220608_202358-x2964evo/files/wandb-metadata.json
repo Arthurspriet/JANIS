@@ -1,0 +1,21 @@
+{
+    "os": "macOS-12.2-arm64-arm-64bit",
+    "python": "3.10.2",
+    "heartbeatAt": "2022-06-08T19:24:00.412514",
+    "startedAt": "2022-06-08T19:23:58.463476",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Trainning Janys.ipynb",
+    "root": "/Users/arthurspriet/Desktop/Tensorflow",
+    "git": {
+        "remote": "https://github.com/Arthurspriet/JANIS.git",
+        "commit": "e0a6bf7b689ee5b330dfbe8f2b4667f8da641342"
+    },
+    "email": "arthurspriet2601997@gmail.com",
+    "host": "Arthurs-MBP.Home",
+    "username": "arthurspriet",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/payet/bin/python3.10"
+}

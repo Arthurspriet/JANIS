@@ -1,0 +1,34 @@
+
+usage: mkdir [-pv] [-m mode] directory ...
+[Errno 2] No such file or directory: '/content'
+/Users/arthurspriet/Desktop/Tensorflow
+mkdir: illegal option -- c
+usage: mkdir [-pv] [-m mode] directory ...
+mkdir: /content: Read-only file system
+mkdir: illegal option -- c
+usage: mkdir [-pv] [-m mode] directory ...
+mkdir: content: File exists
+[Errno 2] No such file or directory: '/content'
+/Users/arthurspriet/Desktop/Tensorflow
+/Users/arthurspriet/Desktop/Tensorflow/content
+Cloning into 'yolov5'...
+remote: Enumerating objects: 12192, done.
+remote: Total 12192 (delta 0), reused 0 (delta 0), pack-reused 12192
+Receiving objects: 100% (12192/12192), 11.95 MiB | 10.76 MiB/s, done.
+Resolving deltas: 100% (8441/8441), done.
+/Users/arthurspriet/Desktop/Tensorflow/content/yolov5
+Note: you may need to restart the kernel to use updated packages.
+[Errno 2] No such file or directory: '/content/yolov5'
+/Users/arthurspriet/Desktop/Tensorflow/content/yolov5
+[Errno 2] No such file or directory: 'content/yolov5'
+/Users/arthurspriet/Desktop/Tensorflow/content/yolov5
+[Errno 2] No such file or directory: 'content/yolov5'
+/Users/arthurspriet/Desktop/Tensorflow/content/yolov5
+[Errno 2] No such file or directory: 'yolov5'
+/Users/arthurspriet/Desktop/Tensorflow/content/yolov5
+/Users/arthurspriet
+/Users/arthurspriet/Desktop
+[Errno 2] No such file or directory: 'Desktop/Tensorflow/content/yolov5'
+/Users/arthurspriet/Desktop
+/Users/arthurspriet
+/Users/arthurspriet/Desktop/Tensorflow/content/yolov5

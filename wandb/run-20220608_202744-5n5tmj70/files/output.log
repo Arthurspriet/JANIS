@@ -1,0 +1,10 @@
+
+Downloading: "https://github.com/ultralytics/yolov5/archive/master.zip" to /Users/arthurspriet/.cache/torch/hub/master.zip
+[31m[1mrequirements:[39m[22m protobuf<=3.20.1 not found and is required by YOLOv5, attempting auto-update...
+Requirement already satisfied: protobuf<=3.20.1 in /opt/homebrew/Caskroom/miniforge/base/envs/payet/lib/python3.10/site-packages (3.19.4)
+[31m[1mrequirements:[39m[22m 1 package updated per /Users/arthurspriet/.cache/torch/hub/ultralytics_yolov5_master/requirements.txt
+[31m[1mrequirements:[39m[22m ⚠️ [1mRestart runtime or rerun command for updates to take effect
+YOLOv5 🚀 2022-6-8 Python-3.10.2 torch-1.11.0 CPU
+Downloading https://github.com/ultralytics/yolov5/releases/download/v6.1/yolov5s.pt to yolov5s.pt...
+Fusing layers...
+YOLOv5s summary: 213 layers, 7225885 parameters, 0 gradients

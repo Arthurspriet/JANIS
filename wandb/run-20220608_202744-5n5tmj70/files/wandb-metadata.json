@@ -1,0 +1,21 @@
+{
+    "os": "macOS-12.2-arm64-arm-64bit",
+    "python": "3.10.2",
+    "heartbeatAt": "2022-06-08T19:27:51.755929",
+    "startedAt": "2022-06-08T19:27:44.536664",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Trainning Janys.ipynb",
+    "root": "/Users/arthurspriet/Desktop/Tensorflow/content/yolov5",
+    "git": {
+        "remote": "https://github.com/ultralytics/yolov5",
+        "commit": "2dd3db0050cd228e7a7ca3ff72ab7e3f34ea64d7"
+    },
+    "email": "arthurspriet2601997@gmail.com",
+    "host": "Arthurs-MBP.Home",
+    "username": "arthurspriet",
+    "executable": "/opt/homebrew/Caskroom/miniforge/base/envs/payet/bin/python3.10"
+}
